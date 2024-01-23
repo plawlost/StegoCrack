@@ -7,7 +7,7 @@ StegoCrack is a robusttool designed for cracking steganography passwords via dic
 
 ## Installation
 
-Ensure you have **python 3.x** and **steghide** installed on your system. 
+Ensure you have **python 3.10** and **steghide** installed on your system. 
 Clone the repository using the following command:
 
 ```git clone https://github.com/plawlost/stegocrack.git```
