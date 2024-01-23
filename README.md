@@ -29,10 +29,10 @@ For detailed usage instructions, refer to the [usage guide](StegoCrack/docs/usag
 ### Quick Start
 
 - Perform a dictionary attack:
-```python src/stegocrack.py dictionary <image_path> <wordlist_path> <output_path>```
+```python StegoCrack/src/stegocrack.py dictionary <image_path> <wordlist_path> <output_path>```
 
 - Perform a brute force attack:
-```python src/stegocrack.py brute-force <image_path> <charset> <max_length> <output_path>```
+```python StegoCrack/src/stegocrack.py brute-force <image_path> <charset> <max_length> <output_path>```
 
 
 ## Development
