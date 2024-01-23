@@ -5,8 +5,8 @@
 ### Version: 1.0.0
 
 The StegoCrack project is organized as follows:
-
-**StegoCrack/
+```
+StegoCrack/
 │
 ├── src/
 │ ├── stegocrack.py # Main application script.
@@ -21,8 +21,8 @@ The StegoCrack project is organized as follows:
 │ └── development.md # Development notes and documentation.
 │
 ├── requirements.txt # Required Python libraries.
-└── README.md # Project description and general information.**
-
+└── README.md # Project description and general information.
+```
 
 - **src/**: This directory contains the main Python scripts for StegoCrack. `stegocrack.py` is the main application script, while `dictionary_attack.py` and `brute_force_attack.py` are modules for the respective attack methods.
 
