@@ -14,7 +14,7 @@ Clone the repository using the following command:
 
 Navigate into the StegoCrack directory:
 
-```cd stegocrack```
+```cd stegocrack/StegoCrack```
 
 Install required dependencies with:
 
